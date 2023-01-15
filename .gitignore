@@ -3,6 +3,7 @@
 _build/
 *.exe
 *.hf
+*_decompresse.txt
 
 
 ### OCaml ###
